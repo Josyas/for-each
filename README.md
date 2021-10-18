@@ -1,4 +1,4 @@
-# for-each
+# Laço for each
 
 <br />Sintaxe opcional e simplificada para percorrer coleções
 <br />Leitura: "para cada objeto 'obj' contido em vect, faça:"
